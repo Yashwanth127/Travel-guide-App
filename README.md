@@ -10,7 +10,7 @@ Travel Guide App is an Android application designed to help users explore differ
 - Travel recommendations
 - User-friendly navigation
 
-## Technologies Used
+## Technologies Used 
 - **Language:** Java/Kotlin
 - **UI:** XML (Material Design)
 - **Database:** Firebase (if applicable)
