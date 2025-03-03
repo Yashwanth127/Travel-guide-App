@@ -38,14 +38,4 @@ TravelGuideApp/
 │-- README.md
 ```
 
-## Contribution
-If you'd like to contribute:
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit changes and push to your branch.
-4. Create a pull request.
-
----
-
-*For any issues, feel free to open an issue in the GitHub repository.*
 
